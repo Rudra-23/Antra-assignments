@@ -32,7 +32,7 @@ WHERE Color IS NOT NULL AND ListPrice > 0
 
 -- 6. Write a query that concatenates the columns Name and Color from the Production.Product table by excluding the rows that are null for color.
 
-SELECT Name + Color AS NameAndColor
+SELECT Name + Color AS NameColor
 FROM Production.Product
 WHERE Color IS NOT NULL
 
@@ -51,7 +51,7 @@ WHERE Name IS NOT NULL AND Color IS NOT NULL
 
 -- 8. Write a query to retrieve the to the columns ProductID and Name from the Production.Product table filtered by ProductID from 400 to 500
 
-SELECT ProductID
+SELECT ProductID, Name
 FROM Production.Product
 WHERE ProductID BETWEEN 400 AND 500
 
@@ -59,7 +59,7 @@ WHERE ProductID BETWEEN 400 AND 500
 
 SELECT ProductID, Name, Color
 FROM Production.Product
-WHERE Color IN ('BLACK', 'BLUE')
+WHERE Color IN ('Black', 'Blue')
 
 -- 10. Write a query to get a result set on products that begins with the letter S. 
 
@@ -95,7 +95,7 @@ ORDER BY Name
 
 -- 13. Write a query so you retrieve rows that have a Name that begins with the letters SPO, but is then not followed by the letter K. After this zero or more letters can exists. Order the result set by the Name column.
 
-SELECT Name, ListPrice
+SELECT Name
 FROM Production.Product
 WHERE Name LIKE '[SPO][^kK]%'
 
