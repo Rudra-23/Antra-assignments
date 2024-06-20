@@ -211,6 +211,12 @@ JOIN Customers C
 ON O.CustomerID = C.CustomerID
 WHERE O.OrderDate = '1998-05-06'
 
+SELECT C.ContactName
+FROM ORDERS O
+JOIN Customers C
+ON O.CustomerID = C.CustomerID
+WHERE O.OrderDate = (SELECT MAX(O1.OrderDate) FROM ORDERS O1)
+
 
 /*
 	21.  Display the names of all customers  along with the  count of products they bought
