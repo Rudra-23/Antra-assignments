@@ -11,3 +11,21 @@ statement?
 9. What does the underscore _ represent in a switch expression?
 10. What interface must an object implement to be enumerated over by using the foreach
 statement?
+
+Answers:
+1. It throws a DivideByZeroException.
+2. Infinity or NaN.
+3. Overflowing an int variable wraps around using two's complement.
+4. x = y++; assigns y to x, then increment y by 1.
+   x = ++y; increments y, then assigns it to x.
+5. break exits the loop, continue skips to the next iteration, return exits the method.
+6. initialization, condition, iteration; condition is required.
+7. = is assignment, == checks equality.
+8. Yes, It is an infinite loop.
+9. _ represents the default case in a switch expression.
+10. An object must implement IEnumerable or IEnumerable<T> interface for foreach enumeration.
+
+
+
+
+
