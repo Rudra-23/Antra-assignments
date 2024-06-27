@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\bin\Debug\net8.0\Generics.exe
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\bin\Debug\net8.0\Generics.deps.json
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\bin\Debug\net8.0\Generics.dll
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\bin\Debug\net8.0\Generics.pdb
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.dll
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\refint\Generics.dll
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.pdb
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment4\Generics\Generics\obj\Debug\net8.0\ref\Generics.dll
