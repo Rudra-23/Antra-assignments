@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\02UnderstandingTypes\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment1\\02UnderstandingTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1576C0F0-8BDF-4F27-B289-1BD1BE205BC6}|02UnderstandingTypes\\02UnderstandingTypes.csproj|c:\\users\\user\\source\\repos\\02understandingtypes\\02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1576C0F0-8BDF-4F27-B289-1BD1BE205BC6}|02UnderstandingTypes\\02UnderstandingTypes.csproj|c:\\users\\user\\desktop\\antra\\antraassignments\\csharp\\assignment1\\02understandingtypes\\02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1576C0F0-8BDF-4F27-B289-1BD1BE205BC6}|02UnderstandingTypes\\02UnderstandingTypes.csproj|solutionrelative:02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
               "RelativeDocumentMoniker": "02UnderstandingTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
               "RelativeToolTip": "02UnderstandingTypes\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBoAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T23:27:01.798Z",
               "EditorCaption": ""

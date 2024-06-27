@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\bin\Debug\net8.0\OopConcepts.exe
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\bin\Debug\net8.0\OopConcepts.deps.json
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\bin\Debug\net8.0\OopConcepts.runtimeconfig.json
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\bin\Debug\net8.0\OopConcepts.dll
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\bin\Debug\net8.0\OopConcepts.pdb
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.AssemblyInfo.cs
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.sourcelink.json
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.dll
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\refint\OopConcepts.dll
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.pdb
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\OopConcepts.genruntimeconfig.cache
+C:\Users\user\Desktop\Antra\AntraAssignments\CSharp\Assignment3\OopConcepts\OopConcepts\obj\Debug\net8.0\ref\OopConcepts.dll

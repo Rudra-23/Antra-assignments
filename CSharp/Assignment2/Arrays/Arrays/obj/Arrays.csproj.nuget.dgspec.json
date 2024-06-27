@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Arrays\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Arrays\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Arrays\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Arrays\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Arrays\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Arrays\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Arrays\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

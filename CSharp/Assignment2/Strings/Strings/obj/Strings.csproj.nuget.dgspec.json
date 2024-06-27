@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Strings\\Strings\\Strings.csproj": {}
+    "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Strings\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Strings\\Strings\\Strings.csproj": {
+    "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Strings\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Strings\\Strings\\Strings.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Strings\\Strings\\Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Strings\\Strings\\Strings.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Strings\\Strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Strings\\Strings\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Antra\\AntraAssignments\\CSharp\\Assignment2\\Strings\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
